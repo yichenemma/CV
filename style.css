@@ -1,0 +1,154 @@
+
+
+body {
+	background-color: #A9D0F5;
+  	font-family: 'Roboto', sans-serif;
+  	font-weight: 100;
+  	color:#6E6E6E;
+}
+.name_box{
+	background-color:#0080FF;
+	width: 300px;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomright: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  text-align: center;
+  margin-left: 100px;
+
+}
+#name{
+	font-weight: 500;
+	font-size: 50px;
+	color: #fff;
+
+
+}
+.profile img{
+	border-radius: 50%;
+	margin-top:10px;
+	position: absolute;
+    right:0;
+    top:0;
+    margin-right: 100px;
+    margin-top: 10px;
+  
+}
+
+
+.nav { 
+  height: 80px; 
+  width: 100%;
+  text-align: center;
+}
+
+.nav ul,.nav_left ul{
+  height: 40px;
+  list-style: none;
+  margin: 0 auto; 
+  padding: 0;
+  
+}
+
+.nav ul li{
+  color: #6E6E6E;
+  display: inline-block; 
+  height: 50px;
+  line-height: 50px; 
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s; 
+  font-weight: 250;
+  font-size: 20px;
+   -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomright: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  -webkit-border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.nav_left ul li{
+  color: #6E6E6E;
+  display: inline-block; 
+  height: 50px;
+  line-height: 50px; 
+  list-style: none;
+  padding: 0 10px;
+  transition: background .5s; 
+  font-weight: 250;
+   -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomright: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  -webkit-border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
+}
+.btn:hover, .nav ul li:hover,.nav_left ul li:hover{
+  background: #F78181;
+  cursor: pointer; 
+   -moz-border-radius-topleft: 10px;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomright: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  -webkit-border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
+   transition: background .5s; 
+  
+}
+.content{
+	margin-left: 100px;
+}
+.details{
+	margin-left: 50px;
+	font-weight: 250;
+
+}
+.email{
+	background-color: #A9D0F5;
+}
+#git{
+	border-radius: 50%;
+	object-fit: cover;
+	position: static;	
+	
+}
+#linkedin,#flexibook{
+	border-radius: 15%;
+	position: static;
+	
+}
+.center{
+	text-align:center;
+}
+.right{
+	position: absolute;
+    right:0;
+    
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+
+
+/* unvisited link */
+a:link {
+  color: #6E6E6E;
+}
+
+/* visited link */
+a:visited {
+  color:#6E6E6E;
+}
+
+/* mouse over link */
+a:hover {
+  color:#6E6E6E;
+}
+
+
+ul li a{
+  display: block;
+}
