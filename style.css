@@ -19,6 +19,15 @@ body {
   margin-left: 100px;
 
 }
+
+.languages{
+    margin-left: 500px;
+
+
+}
+
+
+
 #name{
 	font-weight: 500;
 	font-size: 50px;
@@ -152,3 +161,4 @@ a:hover {
 ul li a{
   display: block;
 }
+
