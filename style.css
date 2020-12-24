@@ -5,6 +5,7 @@ body {
   	font-family: 'Roboto', sans-serif;
   	font-weight: 100;
   	color:#6E6E6E;
+    overflow:auto;
 }
 .name_box{
 	background-color:#0080FF;
@@ -21,9 +22,8 @@ body {
 }
 
 .languages{
-    margin-left: 500px;
-
-
+    margin-left: 20px;
+    margin-top:300px;
 }
 
 
@@ -43,6 +43,7 @@ body {
     top:0;
     margin-right: 100px;
     margin-top: 10px;
+    overflow:auto;
   
 }
 
@@ -109,10 +110,13 @@ body {
 }
 .content{
 	margin-left: 100px;
+    overflow:auto;
 }
 .details{
-	margin-left: 50px;
+
+    width: 500px;
 	font-weight: 250;
+    overflow:auto;
 
 }
 .email{
@@ -121,22 +125,25 @@ body {
 #git{
 	border-radius: 50%;
 	object-fit: cover;
-	position: static;	
+	position: static;
+    overflow:auto;
 	
 }
 #linkedin,#flexibook{
 	border-radius: 15%;
 	position: static;
-	
+    overflow:auto;
 }
 .center{
 	text-align:center;
+    overflow:auto;
 }
 .right{
-	position: absolute;
+    width: 100px;
+    height:200px;
+	position: relative;
     right:0;
-    
-    margin-right: 100px;
+    overflow:auto;
     margin-top: 10px;
 }
 
@@ -161,4 +168,6 @@ a:hover {
 ul li a{
   display: block;
 }
+
+
 
