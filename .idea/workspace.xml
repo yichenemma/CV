@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="fixed the right alignment">
+    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="typo fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608328801244</updated>
-      <workItem from="1608328802999" duration="12512000" />
+      <workItem from="1608328802999" duration="12904000" />
     </task>
     <task id="LOCAL-00001" summary="changed the icon">
       <created>1608329108529</created>
@@ -106,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608945375359</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="typo fixed">
+      <created>1609007524176</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609007524176</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="add language selection box" />
     <MESSAGE value="add videos" />
     <MESSAGE value="fixed the right alignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed the right alignment" />
+    <MESSAGE value="typo fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo fixed" />
   </component>
 </project>
