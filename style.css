@@ -113,8 +113,7 @@ body {
     overflow:auto;
 }
 .details{
-
-    width: 500px;
+	margin-left: 50px;
 	font-weight: 250;
     overflow:auto;
 
@@ -126,26 +125,25 @@ body {
 	border-radius: 50%;
 	object-fit: cover;
 	position: static;
-    overflow:auto;
+
 	
 }
-#linkedin,#flexibook{
+#linkedin, #flexibook{
 	border-radius: 15%;
 	position: static;
-    overflow:auto;
+
 }
 .center{
 	text-align:center;
-    overflow:auto;
 }
+
 .right{
-    width: 100px;
-    height:200px;
-	position: relative;
-    right:0;
-    overflow:auto;
-    margin-top: 10px;
-}
+     position: absolute;
+     right:0;
+    text-align: right;
+     margin-right: 100px;
+     margin-top: 10px;
+ }
 
 
 
