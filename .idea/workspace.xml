@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="add videos">
+    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="fixed the right alignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608328801244</updated>
-      <workItem from="1608328802999" duration="11965000" />
+      <workItem from="1608328802999" duration="12512000" />
     </task>
     <task id="LOCAL-00001" summary="changed the icon">
       <created>1608329108529</created>
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608782741454</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixed the right alignment">
+      <created>1608945375357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608945375359</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +130,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="add language selection box" />
     <MESSAGE value="add videos" />
-    <option name="LAST_COMMIT_MESSAGE" value="add videos" />
+    <MESSAGE value="fixed the right alignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed the right alignment" />
   </component>
 </project>
