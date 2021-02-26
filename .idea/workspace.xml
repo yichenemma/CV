@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="add videos">
-      <change afterPath="$PROJECT_DIR$/tutor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch.html" beforeDir="false" afterPath="$PROJECT_DIR$/ch.html" afterDir="false" />
+    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="ADD MORE STAFFS">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608328801244</updated>
       <workItem from="1608328802999" duration="13165000" />
-      <workItem from="1614315232177" duration="1767000" />
+      <workItem from="1614315232177" duration="1938000" />
     </task>
     <task id="LOCAL-00001" summary="changed the icon">
       <created>1608329108529</created>
@@ -130,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614315307581</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ADD MORE STAFFS">
+      <created>1614317059033</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614317059033</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +162,7 @@
     <MESSAGE value="typo fixed" />
     <MESSAGE value="typo fixed2" />
     <MESSAGE value="add videos" />
-    <option name="LAST_COMMIT_MESSAGE" value="add videos" />
+    <MESSAGE value="ADD MORE STAFFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD MORE STAFFS" />
   </component>
 </project>
