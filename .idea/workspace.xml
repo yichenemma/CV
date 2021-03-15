@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="VIEDO FIX 1">
-      <change afterPath="$PROJECT_DIR$/model.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelstyle.css" afterDir="false" />
+    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="init the model web">
+      <change afterPath="$PROJECT_DIR$/modelMaterials/altar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelMaterials/closebook1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelMaterials/closebook2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelMaterials/closebook3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelMaterials/closebook4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelMaterials/openedBooks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelMaterials/scroll1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelMaterials/scroll2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelMaterials/scroll3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelMaterials/scroll4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.html" beforeDir="false" afterPath="$PROJECT_DIR$/model.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/modelstyle.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +54,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modelMaterials" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +71,10 @@
       <workItem from="1614315232177" duration="2037000" />
       <workItem from="1614317294269" duration="54000" />
       <workItem from="1614317644757" duration="182000" />
-      <workItem from="1615659761986" duration="2337000" />
+      <workItem from="1615659761986" duration="2398000" />
+      <workItem from="1615763718262" duration="1103000" />
+      <workItem from="1615816132282" duration="218000" />
+      <workItem from="1615816368083" duration="5992000" />
     </task>
     <task id="LOCAL-00001" summary="changed the icon">
       <created>1608329108529</created>
@@ -150,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614317244758</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="init the model web">
+      <created>1615699651710</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615699651710</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +204,7 @@
     <MESSAGE value="add videos" />
     <MESSAGE value="ADD MORE STAFFS" />
     <MESSAGE value="VIEDO FIX 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="VIEDO FIX 1" />
+    <MESSAGE value="init the model web" />
+    <option name="LAST_COMMIT_MESSAGE" value="init the model web" />
   </component>
 </project>
