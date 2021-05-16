@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="add apple">
-      <change afterPath="$PROJECT_DIR$/repaireshop.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repairshop.png" afterDir="false" />
+    <list default="true" id="c69cf878-3a92-4cbe-987e-30d5bc653c7e" name="Default Changelist" comment="add repair shop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -69,7 +67,7 @@
       <workItem from="1615816132282" duration="218000" />
       <workItem from="1615816368083" duration="6401000" />
       <workItem from="1615997063386" duration="963000" />
-      <workItem from="1621127705924" duration="658000" />
+      <workItem from="1621127705924" duration="1984000" />
     </task>
     <task id="LOCAL-00001" summary="changed the icon">
       <created>1608329108529</created>
@@ -190,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615998027765</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add repair shop">
+      <created>1621128513644</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1621128513645</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +229,7 @@
     <MESSAGE value="update the model.html" />
     <MESSAGE value="update the link to model.html" />
     <MESSAGE value="add apple" />
-    <option name="LAST_COMMIT_MESSAGE" value="add apple" />
+    <MESSAGE value="add repair shop" />
+    <option name="LAST_COMMIT_MESSAGE" value="add repair shop" />
   </component>
 </project>
